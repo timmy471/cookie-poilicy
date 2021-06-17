@@ -10,6 +10,7 @@ body {
   bottom: 0;
   background-color: #ffffff;
   width: 100%;
+  z-index: 999;
 }
 
 .cookie-container-inner {
